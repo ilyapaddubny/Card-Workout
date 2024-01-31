@@ -6,7 +6,19 @@ This app was created to get a better understanding of the main principles of UIK
 
 ## Screenshots
 
-[Screenshot of the app]
+<p align="center">
+  <table>
+    <tr>
+      <td align="center">
+        <img src="https://github.com/ilyapaddubny/LumiCount/assets/33945343/36f0b42c-8215-466f-b826-0ab29ce34a4f" width="300" alt="Screenshot 1">
+      </td>
+      <td align="center">
+        <img src="https://github.com/ilyapaddubny/LumiCount/assets/33945343/30d0d275-9a56-41e9-a6e7-e2c44e4d336c" width="300" alt="Screenshot 2">
+      </td>
+    </tr>
+  </table>
+</p>
+
 
 ## Getting Started
 
@@ -28,3 +40,10 @@ Once the card has stopped rotating, the user should do the exercise associated w
 ## License
 
 This app is licensed under the MIT License. See the LICENSE file for more information.
+
+
+---
+<p align="center">
+  <img src="https://github.com/ilyapaddubny/LumiCount/assets/33945343/8b09ae33-61eb-48b9-9262-0c597586656a" width="80" alt="App Icon">
+</p>
+
