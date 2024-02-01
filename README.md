@@ -10,10 +10,13 @@ This app was created to get a better understanding of the main principles of UIK
   <table>
     <tr>
       <td align="center">
-        <img src="https://github.com/ilyapaddubny/LumiCount/assets/33945343/36f0b42c-8215-466f-b826-0ab29ce34a4f" width="300" alt="Screenshot 1">
+        <img src="https://github.com/ilyapaddubny/Card-Workout/blob/main/Card%20Workout/CW1.gif" width="300" alt="Screenshot 1">
       </td>
       <td align="center">
-        <img src="https://github.com/ilyapaddubny/LumiCount/assets/33945343/30d0d275-9a56-41e9-a6e7-e2c44e4d336c" width="300" alt="Screenshot 2">
+        <img src="https://github.com/ilyapaddubny/Card-Workout/blob/main/Card%20Workout/CW2.gif" width="300" alt="Screenshot 1">
+      </td>
+      <td align="center">
+        <img src="https://github.com/ilyapaddubny/Card-Workout/blob/main/Card%20Workout/CW3.gif" width="300" alt="Screenshot 1">
       </td>
     </tr>
   </table>
