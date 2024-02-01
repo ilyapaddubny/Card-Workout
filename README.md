@@ -13,10 +13,10 @@ This app was created to get a better understanding of the main principles of UIK
         <img src="https://github.com/ilyapaddubny/Card-Workout/blob/main/Card%20Workout/CW1.gif" width="300" alt="Screenshot 1">
       </td>
       <td align="center">
-        <img src="https://github.com/ilyapaddubny/Card-Workout/blob/main/Card%20Workout/CW2.gif" width="300" alt="Screenshot 1">
+        <img src="https://github.com/ilyapaddubny/Card-Workout/blob/main/Card%20Workout/CW2.PNG" width="300" alt="Screenshot 1">
       </td>
       <td align="center">
-        <img src="https://github.com/ilyapaddubny/Card-Workout/blob/main/Card%20Workout/CW3.gif" width="300" alt="Screenshot 1">
+        <img src="https://github.com/ilyapaddubny/Card-Workout/blob/main/Card%20Workout/CW3.PNG" width="300" alt="Screenshot 1">
       </td>
     </tr>
   </table>
@@ -47,6 +47,6 @@ This app is licensed under the MIT License. See the LICENSE file for more inform
 
 ---
 <p align="center">
-  <img src="https://github.com/ilyapaddubny/LumiCount/assets/33945343/8b09ae33-61eb-48b9-9262-0c597586656a" width="80" alt="App Icon">
+  <img src="https://github.com/ilyapaddubny/Card-Workout/blob/main/Card%20Workout/Assets.xcassets/AppIcon.appiconset/AppIcon~ios-marketing.png" width="80" alt="App Icon">
 </p>
 
